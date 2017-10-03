@@ -15,6 +15,7 @@
 #include "spieler.h"
 #include "deko.h"
 
+// Testkommentar
 int main(int argc, char *argv[])
 {
 //    vector<Objekt> objekte;
