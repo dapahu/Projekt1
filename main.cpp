@@ -15,7 +15,7 @@
 #include "spieler.h"
 #include "deko.h"
 
-// Testkommentar
+// Testkommentar - scrolling branch
 int main(int argc, char *argv[])
 {
 //    vector<Objekt> objekte;
